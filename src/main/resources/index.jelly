@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Extension of the JUnit plugin to link test failures with JIRA issues.
+</div>
